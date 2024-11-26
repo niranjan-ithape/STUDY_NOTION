@@ -4,6 +4,7 @@
 
 
 ![Main Page](images/mainpage.png)
+<img width="604" alt="study1" src="https://github.com/user-attachments/assets/977f98f2-2585-4607-8d71-656d70afd448">
 StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## Table of Contents
