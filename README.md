@@ -1,10 +1,13 @@
 
 # StudyNotion - EdTech Platform
-:rocket: [Link to website][https://studynotion-frontend.vercel.app/]
+
 
 
 ![Main Page](images/mainpage.png)
 <img width="604" alt="study1" src="https://github.com/user-attachments/assets/977f98f2-2585-4607-8d71-656d70afd448">
+<img width="666" alt="study2" src="https://github.com/user-attachments/assets/bf71c958-232a-4ac0-a58c-58c47834f74c">
+
+
 StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## Table of Contents
